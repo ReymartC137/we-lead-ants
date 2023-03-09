@@ -130,7 +130,7 @@ class _ChromaSectionState extends State<ChromaSection>
                         ),
                         Image.asset(
                           'assets/icons/ants-finalfinal.png',
-                          height: size.width > 1000 ? 150 : 50,
+                          height: size.width > 1000 ? 200 : 120,
                           fit: BoxFit.fitHeight,
                         ),
                         SizedBox(
