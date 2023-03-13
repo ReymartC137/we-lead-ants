@@ -112,7 +112,7 @@ class CHAppBar1 extends StatelessWidget {
                 child: Container(
                   margin: const EdgeInsets.only(left: 10),
                   child: Image.asset(
-                    'assets/icons/ants-finalfinal-logo.png',
+                    'assets/icons/ants-no-tagline.png',
                     height: 30,
                   ),
                 ),

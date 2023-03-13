@@ -73,7 +73,7 @@ class _BringingManegementSectionState extends State<BringingManegementSection>
                     controller: controller,
                     slideInitialPos: const Offset(-.05, 0.05),
                     child: Text(
-                      'At our core, we believe that great sourcing starts with great relationships. We have built strong partnerships with a network of trusted suppliers in China, ensuring that we have access to the latest and most innovative products in the market. We work closely with our suppliers to ensure that our clients receive the highest quality goods at the most competitive prices.',
+                      "At our core, we believe that great sourcing starts with great relationships. That's why we have built strong partnerships with a network of trusted suppliers worldwide. This ensures that we have access to the latest and most innovative products on the market. We work closely with our suppliers to guarantee that our clients receive the highest quality goods at the most competitive prices.",
                       style: widget.size.width > 1366
                           ? CHTheme.lightTheme.textTheme.titleMedium?.copyWith(
                               fontWeight: FontWeight.w500,
@@ -174,7 +174,7 @@ class _BringingManegementSectionState extends State<BringingManegementSection>
                   SizedBox(
                     width: 500,
                     child: Text(
-                      'At our core, we believe that great sourcing starts with great relationships. We have built strong partnerships with a network of trusted suppliers in China, ensuring that we have access to the latest and most innovative products in the market. We work closely with our suppliers to ensure that our clients receive the highest quality goods at the most competitive prices.',
+                      "At our core, we believe that great sourcing starts with great relationships. That's why we have built strong partnerships with a network of trusted suppliers worldwide. This ensures that we have access to the latest and most innovative products on the market. We work closely with our suppliers to guarantee that our clients receive the highest quality goods at the most competitive prices.",
                       style: CHTheme.lightTheme.textTheme.titleSmall
                           ?.copyWith(height: 1.5),
                       textAlign: TextAlign.center,

@@ -83,7 +83,7 @@ class _DrivenHospitalitySectionState extends State<DrivenHospitalitySection>
                     ),
                     SizedBox(
                       child: Text(
-                        'We are a company with a team of dedicated professionals with years of experience in sourcing goods from China to the Philippines. Our mission is to provide high-quality sourcing solutions to our clients, helping them to find the best products at competitive prices.',
+                        'We are a company with a team of dedicated professionals who have years of experience in sourcing goods from around the globe to the Philippines. Our mission is to provide high-quality sourcing solutions to our clients, helping them find the best products at competitive prices.',
                         style: widget.size.width > 1366
                             ? CHTheme.lightTheme.textTheme.titleMedium
                                 ?.copyWith(
@@ -162,7 +162,7 @@ class _DrivenHospitalitySectionState extends State<DrivenHospitalitySection>
                     SizedBox(
                       width: 500,
                       child: Text(
-                        'Chroma is a leading management group that focuses on customer experience while incorporating the expertise of team to innovate how things are done in the hotel and food & beverage industry.',
+                        'We are a company with a team of dedicated professionals who have years of experience in sourcing goods from around the globe to the Philippines. Our mission is to provide high-quality sourcing solutions to our clients, helping them find the best products at competitive prices.',
                         style: CHTheme.lightTheme.textTheme.titleSmall
                             ?.copyWith(height: 1.5),
                         textAlign: TextAlign.center,
